@@ -1,6 +1,6 @@
 # Log analysis
 
-By Vivek Tangudu
+
 
 [GitHub - vivektangudu123/Log-Analysis](https://github.com/vivektangudu123/Log-Analysis)
 
@@ -34,6 +34,8 @@ The file named warning.log contains the logs whose occurrences exceed a specifie
     
     [https://drive.google.com/file/d/1gATYbPiR1fEuOw77wdH_nuVlmsWGePLy/view?usp=share_link](https://drive.google.com/file/d/1gATYbPiR1fEuOw77wdH_nuVlmsWGePLy/view?usp=share_link)
     
+
+
     Vivek Tangudu
     
     International Institute of Information Technology, Bangalore
