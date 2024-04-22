@@ -619,3 +619,9 @@ INFO:__main__:INFO message
 CRITICAL:__main__:FATAL message
 CRITICAL:__main__:FATAL message
 ERROR:__main__:ERROR message
+DEBUG:__main__:DEBUG message
+ERROR:__main__:ERROR message
+INFO:__main__:INFO message
+ERROR:__main__:ERROR message
+CRITICAL:__main__:FATAL message
+INFO:__main__:INFO message
