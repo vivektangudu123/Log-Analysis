@@ -4,7 +4,7 @@ By Vivek Tangudu
 
 [GitHub - vivektangudu123/Log-Analysis](https://github.com/vivektangudu123/Log-Analysis)
 
-To run the file 
+To run the code
 
 - git clone [https://github.com/vivektangudu123/Log-Analysis](https://github.com/vivektangudu123/Log-Analysis)
 - cd Log-Analysis
