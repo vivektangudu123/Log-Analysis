@@ -653,3 +653,7 @@ ERROR:__main__:ERROR message
 ERROR:__main__:ERROR message
 CRITICAL:__main__:FATAL message
 CRITICAL:__main__:FATAL message
+ERROR:__main__:ERROR message
+CRITICAL:__main__:FATAL message
+INFO:__main__:INFO message
+ERROR:__main__:ERROR message
