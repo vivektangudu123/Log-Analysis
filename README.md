@@ -45,6 +45,4 @@ The file named warning.log contains the logs whose occurrences exceed a specifie
     
     International Institute of Information Technology, Bangalore
     
-    9441354555
-    
     [vivektangudu@outlook.com](mailto:vivektangudu@outlook.com)
